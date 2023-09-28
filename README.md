@@ -42,4 +42,12 @@ Notes:
 - Have you kept to the project structure?
 - Have you kept the code neat?
 
+# Generated Plot: 
+<img width="930" alt="image" src="https://github.com/nhayenquynh/Rusty-Bargain-Car-Sale/assets/125513684/0f8bfb94-fc6f-4c61-ada9-84563511ab6e">
+
+# Result:
+<img width="381" alt="image" src="https://github.com/nhayenquynh/Rusty-Bargain-Car-Sale/assets/125513684/51ecb80c-0cb3-4b65-98e3-72c62091fb64">
+
+When trained with the train dataset, the CatBooster moedl performed the best in term of RMSE.
+
    
