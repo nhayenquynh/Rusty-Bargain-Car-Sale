@@ -48,6 +48,6 @@ Notes:
 # Result:
 <img width="381" alt="image" src="https://github.com/nhayenquynh/Rusty-Bargain-Car-Sale/assets/125513684/51ecb80c-0cb3-4b65-98e3-72c62091fb64">
 
-When trained with the train dataset, the CatBooster moedl performed the best in term of RMSE.
+When trained with the train dataset, the CatBooster model performed the best in term of RMSE.
 
    
